@@ -1,3 +1,16 @@
-﻿{
-	"name": "MMFeedback.Extensions"
+{
+    "name": "MMFeedback.Extensions",
+    "rootNamespace": "",
+    "references": [
+        "GUID:dad624460036b51448e1b1849358a96a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }

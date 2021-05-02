@@ -1,13 +1,14 @@
 {
-	"name": "com.realitystop.MMFeedbacks",
+	"name": "com.realitystop.btaggedextensions",
 	"version": "1.0.0",
-	"displayName": "MMFeedbacks Extensions",
-	"description": "A collection of Feedbacks use with MMFeedbacks.",
+	"displayName": "BTagged Extensions",
+	"description": "A collection of helpers for facilitating different workflows with BTagged.",
 	"unity": "2019.4",
 	"keywords": [
 		"Packages",
-		"MMFeedbacks",
-		"Feedbacks"
+		"BTagged",
+		"GoCS",
+		"ECS"
 	],
 	"author": {
 		"name": "Reality.Stop()",
