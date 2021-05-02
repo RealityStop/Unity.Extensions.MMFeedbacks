@@ -1,0 +1,17 @@
+{
+    "name": "BTagged.Extensions.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6fba570e0f7342c49b5d15e1ef8f6408",
+        "GUID:710c4c827877ea540b0af33c919ea535"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

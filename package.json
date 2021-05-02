@@ -1,0 +1,16 @@
+{
+	"name": "com.realitystop.MMFeedbacks",
+	"version": "1.0.0",
+	"displayName": "MMFeedbacks Extensions",
+	"description": "A collection of Feedbacks use with MMFeedbacks.",
+	"unity": "2019.4",
+	"keywords": [
+		"Packages",
+		"MMFeedbacks",
+		"Feedbacks"
+	],
+	"author": {
+		"name": "Reality.Stop()",
+		"url": "https://github.com/RealityStop"
+	}
+}
